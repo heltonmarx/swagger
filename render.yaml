@@ -8,6 +8,6 @@ services:
     region: oregon
     envVars:
       - key: SWAGGER_JSON_URL
-        value: https://raw.githubusercontent.com/heltonmarx/wms/refs/heads/dev/swagger/swagger.json?token=GHSAT0AAAAAADZKVDZOSMRBDKCHMGGVMJVM2SMWETA
+        value: https://raw.githubusercontent.com/heltonmarx/swagger/refs/heads/main/swagger.json
       - key: PORT
         value: 8080
